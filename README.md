@@ -1,2 +1,2 @@
 # AlphaV-ComboFonts
-Combo fonts for Project OutFox's Alpha V dance theme
+This repo hosts the data files for combo number graphics made by MattMayuga, for use with Project OutFox's Alpha V dance theme.
