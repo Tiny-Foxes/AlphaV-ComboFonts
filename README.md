@@ -15,11 +15,11 @@ If you're looking for the versions for Simply Love (ITGmania), see [this link](h
 **765PRO LIVE THEATER STAGE**:
 Thanking you, welcoming, and dreaming as MILLIONSTARS! Based on *THE iDOLM@STER MILLION LIVE!: Theater Days*.
 
-**Neo Sekai**★:
+**Neo Sekai**:
 New Sekai, new songs. Based on the new combo font used in *Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU* (known in the West as *HATSUNE MIKU: COLORFUL STAGE!*) since the UI revamp in September 2023.
 
 
-**Mishiro Stage**★:
+**Mishiro Stage**:
 Step right into the Cinderella stage. Based on *THE iDOLM@STER CINDERELLA GIRLS: Starlight Stage*.
 
 **Slick**:
