@@ -18,12 +18,20 @@ Thanking you, welcoming, and dreaming as MILLIONSTARS! Based on *THE iDOLM@STER 
 **Neo Sekai**:
 New Sekai, new songs. Based on the new combo font used in *Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU* (known in the West as *HATSUNE MIKU: COLORFUL STAGE!*) since the UI revamp in September 2023.
 
-
 **Mishiro Stage**:
 Step right into the Cinderella stage. Based on *THE iDOLM@STER CINDERELLA GIRLS: Starlight Stage*.
 
+**Sirius Dreams**:
+Want to make your dreams come true just like the girls who want to do so? And you want more than that? Well you can! Based on _World Dai Star: Yume no Stellarium_.
+
 **Slick**:
 Clean and concise.
+
+## Patch notes
+
+### 2025-11-06
+
+- Added the combo font **Sirius Dreams**.
 
 ## Copyright
 
@@ -32,5 +40,7 @@ Clean and concise.
 THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
 Project Sekai: COLORFUL STAGE! feat. HATSUNE MIKU/HATSUNE MIKU: COLORFUL STAGE!™& ©Sega, Colorful Palette Inc., Crypton Future Media, INC., and Piapro.
+
+World Dai Star™& ©Sirius and Project WDS.
 
 *All other trademarks are the property of their respective owners, trademark fair use doctrines apply.*
