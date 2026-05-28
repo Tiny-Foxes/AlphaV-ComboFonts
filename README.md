@@ -21,6 +21,9 @@ New Sekai, new songs. Based on the new combo font used in *Project Sekai: COLORF
 **Mishiro Stage**:
 Step right into the Cinderella stage. Based on *THE iDOLM@STER CINDERELLA GIRLS: Starlight Stage*.
 
+**Prismatic**:
+Spread your wings to reach the farthest skies. Based on THE iDOLM@STER SHINY COLORS: Song for Prism. "why does perfect look shinier than shiny lol" —PoRa
+
 **Sirius Dreams**:
 Want to make your dreams come true just like the girls who want to do so? And you want more than that? Well you can! Based on _World Dai Star: Yume no Stellarium_.
 
@@ -28,6 +31,10 @@ Want to make your dreams come true just like the girls who want to do so? And yo
 Clean and concise.
 
 ## Patch notes
+
+### 2026-05-28
+
+- Added the combo font **Prismatic**.
 
 ### 2025-11-06
 
